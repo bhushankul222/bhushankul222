@@ -1,116 +1,183 @@
-# Hi there, I'm Bhushan 👋
+# Hi there 👋 I'm Bhushan Kalsarpe
 
-### Salesforce Developer | Apex | LWC | API Integrations | Field Service Lightning
+🚀 Salesforce Developer | Apex | LWC | Field Service Lightning | Integrations | AI Automation
 
-💡 Passionate about building scalable Salesforce solutions and exploring AI-powered automation.
+I’m a **Salesforce Developer with 3.7+ years of experience** designing scalable CRM solutions, building automation, and integrating external systems with Salesforce.
 
----
-
-## 🚀 About Me
-
-🔭 Currently working as a **Salesforce Developer with 3.7 years of experience**
-
-⚡ Strong experience in **Apex, Triggers, Lightning Web Components (LWC), Flows, and REST API Integrations**
-
-🌱 Currently learning **AI integrations, Agentforce, Generative AI, and advanced Salesforce architecture**
-
-👯 Open to collaborate on **Salesforce automation, integrations, and AI-powered CRM solutions**
-
-🤝 Interested in opportunities involving **scalable Salesforce systems and AI-driven applications**
-
-💬 Ask me about **Salesforce Development, Apex, LWC, REST API Integrations, and Field Service Lightning**
-
-⚡ Fun fact: Debugging Apex sometimes feels like solving a mystery 🕵️‍♂️
+I specialize in **Apex development, Lightning Web Components, Field Service Lightning (FSL), and API integrations** that improve business efficiency and automate operations.
 
 ---
 
-## 📫 Connect With Me
+# 🚀 About Me
 
-- 💼 LinkedIn
-- 📧 Email
-- 💻 GitHub
+🔭 Salesforce Developer with **3.7 years of hands-on experience**
+
+⚡ Experienced in **Apex, Triggers, Lightning Web Components (LWC), Flow Automation, and REST APIs**
+
+☁️ Skilled in **Sales Cloud, Service Cloud, Experience Cloud, and Field Service Lightning**
+
+🤖 Currently exploring **Agentforce AI, Generative AI, and AI-driven automation**
+
+🔗 Strong experience in **system integrations using REST APIs, JSON, HTTP callouts**
+
+📈 Focused on **building scalable Salesforce applications and automation solutions**
+
+💬 Ask me about **Salesforce, Apex, LWC, Field Service Lightning, and integrations**
+
+⚡ Fun fact: Debugging Apex feels like solving a detective case 🕵️‍♂️
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Salesforce
+## Salesforce
+
 - Apex
 - Lightning Web Components (LWC)
+- Aura Components
 - SOQL / SOSL
-- Flows
+- Flow Builder
 - Triggers
+- Validation Rules
+- Approval Processes
+- Profiles & Permission Sets
+
+---
+
+## Cloud Platforms
+
+- Sales Cloud
+- Service Cloud
+- Experience Cloud
 - Field Service Lightning (FSL)
 
-### Integration
-- REST APIs
-- JSON Parsing
-- External API Integration
-- Named Credentials
+---
 
-### Web Technologies
+## Programming
+
+- Apex
 - JavaScript
 - HTML
 - CSS
-- Lightning Framework
 
-### AI & Automation
-- OpenAI API
-- Agentforce
-- Prompt Engineering
+---
 
-### Databases
-- Salesforce Data Model
-- PostgreSQL
-- MongoDB
+## Integrations
 
-### Tools
+- REST APIs
+- SOAP APIs
+- JSON
+- XML
+- HTTP Callouts
+- Named Credentials
+
+---
+
+## Tools
+
 - VS Code
 - Git
 - GitHub
 - Postman
+- Jira
+- Data Loader
+- Workbench
 - Salesforce CLI
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Certifications
 
-![Bhushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME)
+✔ Salesforce Administrator  
+✔ Platform Developer I  
+✔ JavaScript Developer I  
+✔ Salesforce AI Associate
 
 ---
 
-## 💻 Top Languages
+# 💼 Featured Projects
+
+## ❄️ Snow Management System
+
+**Technologies:** Apex, REST API, JSON Parsing, Scheduled Apex, Field Service Lightning
+
+- Integrated external weather API for **real-time snow forecasting**
+- Automated creation of **Work Orders and Service Appointments**
+- Implemented **Scheduled Apex jobs for weather monitoring**
+- Built **LWC dashboards for snow operation tracking**
+
+---
+
+## 🌿 Landscaping Automation System
+
+**Technologies:** Apex, LWC, Batch Apex, SOQL, Flow Builder
+
+- Automated **maintenance plans for recurring work orders**
+- Created **LWC UI for manual task scheduling**
+- Used **Batch Apex to generate bulk work orders**
+- Integrated **Field Service Mobile App for technician tracking**
+
+---
+
+## 📁 Lightning File Upload & Cloudinary Integration
+
+**Technologies:** LWC, Apex, REST API
+
+- Built LWC component to **upload files from Salesforce**
+- Integrated **Cloudinary API for image storage**
+- Processed API responses using **JSON deserialization**
+- Stored file metadata in **custom Salesforce objects**
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushankul222&show_icons=true)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=bhushankul222)
+
+---
+
+# 💻 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushankul222&layout=compact)
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 🧠 Building **AI-powered Salesforce automation systems**
 
-⚙️ Developing **scalable Apex backend logic**
+⚙️ Advanced **Apex backend architecture**
 
-🔗 Creating **REST API integrations with external platforms**
+🔗 Scalable **API integrations**
 
 ☁️ Exploring **Salesforce + AI ecosystem**
 
-🚀 Building **production-ready Salesforce solutions**
+🚀 Creating **enterprise-level CRM automation**
 
 ---
 
-## 👀 Profile Views
+# 📫 Connect With Me
+
+📧 Email: bhushankul222@gmail.com  
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/bhushan-kalsarpe-b3658216a
+
+💻 GitHub:  
+https://github.com/bhushankul222
+
+---
+
+# 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bhushankul222)
 
 ---
 
-## 🚀 Let's Connect
-
-If you're interested in **Salesforce development, integrations, or AI-powered CRM systems**, let's collaborate and build something amazing together!
+⭐ If you like my work, feel free to connect and collaborate on exciting Salesforce or AI projects!
