@@ -165,11 +165,9 @@ I specialize in **Apex development, Lightning Web Components, Field Service Ligh
 
 📧 Email: bhushankul222@gmail.com  
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/bhushan-kalsarpe-b3658216a
+💼 LinkedIn:  https://www.linkedin.com/in/bhushan-kalsarpe-b3658216a
 
-💻 GitHub:  
-https://github.com/bhushankul222
+💻 GitHub:  https://github.com/bhushankul222
 
 ---
 
