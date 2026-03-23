@@ -130,22 +130,21 @@ I specialize in **Apex development, Lightning Web Components, Field Service Ligh
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushankul222&show_icons=true)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=bhushankul222)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushankul222&show_icons=true&theme=tokyonight)
 
 ---
 
-# 💻 Top Languages
+## 🔥 GitHub Streak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushankul222&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bhushankul222&theme=tokyonight)
 
+---
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushankul222&layout=compact&theme=tokyonight)
 ---
 
 # 🎯 Current Focus
