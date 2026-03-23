@@ -88,9 +88,9 @@ I specialize in **Apex development, Lightning Web Components, Field Service Ligh
 
 # 🏆 Certifications
 
-✔ Salesforce Administrator  
-✔ Platform Developer I  
-✔ JavaScript Developer I  
+✔ Salesforce Certified Administrator  
+✔ Salesforce Platform Developer I  
+✔ Salesforce JavaScript Developer I  
 ✔ Salesforce AI Associate
 
 ---
