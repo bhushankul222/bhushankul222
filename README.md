@@ -117,7 +117,7 @@ I specialize in **Apex development, Lightning Web Components, Field Service Ligh
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushankul222&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhushan-Kalsarpe&show_icons=true&theme=tokyonight)
 
 ---
 
